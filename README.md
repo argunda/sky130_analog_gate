@@ -1,2 +1,2 @@
 # sky130_analog_gate
-cmos digital to analog transmission gate
+a digitally controllable analog transmission gate
